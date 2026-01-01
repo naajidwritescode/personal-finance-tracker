@@ -1,0 +1,22 @@
+date,amount,category,description
+01-12-2025,2500,i,Salary
+02-12-2025,150,e,Groceries
+02-12-2025,200,e,Transport
+03-12-2025,320,i,Freelance Project
+04-12-2025,100,e,Coffee & Snacks
+04-12-2025,450,e,Shopping
+05-12-2025,500,i,Bonus
+05-12-2025,80,e,Books
+06-12-2025,60,e,Taxi
+06-12-2025,120,e,Meal
+07-12-2025,2700,i,Salary
+07-12-2025,300,e,Rent
+08-12-2025,200,e,Utilities
+09-12-2025,150,e,Internet
+10-12-2025,800,i,Side Income
+10-12-2025,50,e,Cinema
+10-12-2025,90,e,Dinner
+11-12-2025,1000,i,Stock Dividend
+11-12-2025,400,e,Clothes
+12-12-2025,60,e,Gas
+01-01-2026,300.0,e,grocery
